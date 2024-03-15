@@ -1,0 +1,4 @@
+const myString = "Mariam is a good girl";
+const wordsArray = splitStringToArray(myString);
+
+console.log(wordsArray); 
